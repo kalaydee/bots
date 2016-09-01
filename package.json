@@ -1,0 +1,21 @@
+{
+  "name": "slackbots",
+  "version": "1.0.0",
+  "description": "Testing bots",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalaydee/bots.git"
+  },
+  "author": "Clyde Matugas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalaydee/bots/issues"
+  },
+  "homepage": "https://github.com/kalaydee/bots#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "request": "^2.74.0"
+  }
+}
